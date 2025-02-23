@@ -152,7 +152,7 @@ export default {
 #app {
   font-family: Arial, sans-serif;
   /* padding: 20px; */
-  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  background-color: black;
 }
 
 header {
@@ -176,11 +176,11 @@ ul {
 }
 
 h1 {
-  color: #2c3e50;
+  color: white;
 }
 
 .student-profile {
-  background-color: rgb(20, 19, 19);
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
   color: rgb(223, 213, 213);
   padding: 15px;
   margin: 10px;
